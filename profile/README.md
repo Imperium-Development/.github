@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-	<a href="https://discord.gg/jc8hKUSB"><img src=".assets/icon.ico" alt="Imperium" height="90" /></a>
+	<a href="https://discord.gg/sH5Mh2XfPC"><img src=".assets/icon.ico" alt="Imperium" height="90" /></a>
 </p>
 
 <h4 align="center">IMPERIUM | DEVELOPMENTS</h4>
@@ -16,7 +16,7 @@
 <p align="center">
   <a href="#-welcome">Welcome</a> •
   <a href="#-what-is-imperium">What is</a> •
-	<a href="https://discord.gg/jc8hKUSB">Discord server</a>
+	<a href="https://discord.gg/sH5Mh2XfPC">Discord server</a>
 </p>
 <br/>
 
@@ -45,7 +45,7 @@
                               ██║██║╚██╔╝██║██╔═══╝ ██╔══╝  ██╔══██╗██║██║   ██║██║╚██╔╝██║
                               ██║██║ ╚═╝ ██║██║     ███████╗██║  ██║██║╚██████╔╝██║ ╚═╝ ██║
                               ╚═╝╚═╝     ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝     ╚═╝
-                                                                        discord.gg/jc8hKUSB
+                                                                             [DISCONTINUED]
 
 ]]--
 ```
