@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="#-welcome">Welcome</a> •
-  <a href="#-what-is-imperium">What is</a> •
+  <a href="#-what-is-imperium">What is</a> 
 </p>
 <br/>
 
