@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-	<a href="https://discord.gg/qPXK5kxdNr"><img src=".assets/icon.ico" alt="Imperium" height="90" /></a>
+	<a href="https://discord.gg/"><img src=".assets/icon.ico" alt="Imperium" height="90" /></a>
 </p>
 
 <h4 align="center">IMPERIUM | DEVELOPMENTS</h4>
@@ -16,7 +16,6 @@
 <p align="center">
   <a href="#-welcome">Welcome</a> •
   <a href="#-what-is-imperium">What is</a> •
-	<a href="https://discord.gg/qPXK5kxdNr">Discord server</a>
 </p>
 <br/>
 
